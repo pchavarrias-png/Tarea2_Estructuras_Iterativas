@@ -39,7 +39,7 @@ for dia in range(1, DIAS + 1):
 promedio = consumo_total / DIAS
 
 # Resultados finales
-print("\n--- RESUMEN SEMANAL ---")
+print("--- RESUMEN SEMANAL ---")
 print("Consumo total:", consumo_total, "litros")
 print("Promedio diario:", promedio, "litros")
 print("Mayor consumo:", mayor_consumo, "litros")
